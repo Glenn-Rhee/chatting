@@ -1,0 +1,11 @@
+/frontend/node_modules
+/frontend/.env
+/frontend/pnpm-lock.yaml
+
+
+/backend/dist
+/backend/.env
+/backend/conversation.json
+/backend/messages.json
+/backend/pnpm-lock.yaml
+/backend/node_modules
